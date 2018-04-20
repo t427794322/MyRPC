@@ -14,6 +14,8 @@ object ChooserC {
 
     import MyPredefC._
 
+    println("test")
+
     val choose = new ChooserC[GirlC]
 
 
