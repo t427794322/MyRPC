@@ -25,6 +25,7 @@ object ChooserB {
 
 
 
+    println("ChooserB test code")
     val r = choose.choose(g1, g2)
     println(r.name)
   }
